@@ -1,6 +1,7 @@
 # go-geohash
 
-This is golang version geohash with bounding box searches refers to https://github.com/davetroy/geohash-js
+This is golang version geohash providing simple bounding box searches.
+This implementation refers to https://github.com/davetroy/geohash-js
 
 
 ## BenchMark Result
