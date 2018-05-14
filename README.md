@@ -4,7 +4,7 @@ This is golang version geohash providing simple bounding box searches.
 This implementation refers to https://github.com/davetroy/geohash-js
 
 
-## BenchMark Result
+## Benchmark result
 
 Test with MacOS High Sierra, 2.3 GHz Intel Core i5, 8 GB 2133 MHz LPDDR3
 
